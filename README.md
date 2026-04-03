@@ -15,18 +15,18 @@ Strengths:
   - Real-World Project Building
 
   🧬 Developer Mindset
+  
 🧩 I break problems into small solvable pieces
+
 ⚡ I focus on performance + scalability
+
 🔁 I believe in continuous learning
+
 🏗️ I build projects, not just tutorials
 
-🏆 Certifications
-🎓 Full Stack Developer — GeeksforGeeks
-🎓 Database & SQL — Coursera
-🎓 Python for Data Science — Coursera
-🎓 React.js — GeeksforGeeks
 
 🌐 Let's Connect
+
 linkedin : https://www.linkedin.com/in/milind-satpute-426979301/
 
 Email : milindkumarsatpute45@gmail.com
