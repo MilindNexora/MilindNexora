@@ -1,16 +1,27 @@
-## Hi there 👋
+⚡ Milind Kumar Satpute
 
-<!--
-**MilindNexora/MilindNexora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Who Am I?
+Name: Milind Kumar Satpute
+Role: Aspiring Software Engineer
+Education: B.Tech CSE (Data Science)
+Focus: Full Stack Development + AI Systems
+Strengths:
+  - Problem Solving (DSA)
+  - Clean & Scalable Code
+  - Real-World Project Building
 
-Here are some ideas to get you started:
+  🧬 Developer Mindset
+🧩 I break problems into small solvable pieces
+⚡ I focus on performance + scalability
+🔁 I believe in continuous learning
+🏗️ I build projects, not just tutorials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Certifications
+🎓 Full Stack Developer — GeeksforGeeks
+🎓 Database & SQL — Coursera
+🎓 Python for Data Science — Coursera
+🎓 React.js — GeeksforGeeks
+
+🌐 Let's Connect
+linkedin : https://www.linkedin.com/in/milind-satpute-426979301/
+Email : milindkumarsatpute45@gmail.com
