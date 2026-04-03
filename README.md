@@ -28,4 +28,5 @@ Strengths:
 
 🌐 Let's Connect
 linkedin : https://www.linkedin.com/in/milind-satpute-426979301/
+
 Email : milindkumarsatpute45@gmail.com
