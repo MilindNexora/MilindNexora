@@ -1,9 +1,13 @@
 ⚡ Milind Kumar Satpute
 
 🧠 Who Am I?
+
 Name: Milind Kumar Satpute
+
 Role: Aspiring Software Engineer
+
 Education: B.Tech CSE (Data Science)
+
 Focus: Full Stack Development + AI Systems
 Strengths:
   - Problem Solving (DSA)
